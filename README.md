@@ -1,30 +1,25 @@
 # Hey there! 👋
 
-I'm Awais, a passionate developer.
+I'm Awais, a developer from Pakistan 🇵🇰
 
-I build things for the web and enjoy turning ideas into real,
-useful applications.
+I love building things for the web and learning new technologies.
 
-## 🚀 What I'm currently working on
+I'm currently working on personal projects and improving my development skills.
 
-- Building and improving my personal projects
-- Learning new technologies
-- Creating clean and practical web experiences
+### 🛠️ Tools I use
 
-## 🛠️ Tools & Technologies
-
-- JavaScript / TypeScript
-- React / Next.js
+- JavaScript
+- React
 - Node.js
 - Git & GitHub
 
-## 📫 How to reach me
+### 📫 Reach me
 
 - GitHub: @awaiscodes
 - Instagram: @awaiscodes
 
-## ⚡ Fun Facts
+### ⚡ Fun Facts
 
-- 💻 I enjoy building things from scratch
-- 🚀 Always learning something new
-- 🎯 Focused on becoming a better developer
+- 💻 I enjoy coding
+- 🚀 Always learning
+- 🎯 Love building projects
