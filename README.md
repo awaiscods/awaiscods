@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**awaiscods/awaiscods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Awais, a passionate developer.
 
-Here are some ideas to get you started:
+I build things for the web and enjoy turning ideas into real,
+useful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm currently working on
+
+- Building and improving my personal projects
+- Learning new technologies
+- Creating clean and practical web experiences
+
+## 🛠️ Tools & Technologies
+
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js
+- Git & GitHub
+
+## 📫 How to reach me
+
+- GitHub: @awaiscodes
+- Instagram: @awaiscodes
+
+## ⚡ Fun Facts
+
+- 💻 I enjoy building things from scratch
+- 🚀 Always learning something new
+- 🎯 Focused on becoming a better developer
