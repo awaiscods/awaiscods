@@ -1,25 +1,18 @@
-# Hey there! 👋
+ Hey there! 👋
 
 I'm Awais, a developer from Pakistan 🇵🇰
 
-I love building things for the web and learning new technologies.
+I build and experiment with things on the web.
 
 I'm currently working on personal projects and improving my development skills.
 
-### 🛠️ Tools I use
+My main tech stack includes JavaScript, React, Node.js, and Git.
 
-- JavaScript
-- React
-- Node.js
-- Git & GitHub
+I enjoy turning ideas into projects and learning something new along the way.
 
-### 📫 Reach me
+### Fun Facts:
 
-- GitHub: @awaiscodes
-- Instagram: @awaiscodes
-
-### ⚡ Fun Facts
-
-- 💻 I enjoy coding
-- 🚀 Always learning
-- 🎯 Love building projects
+- 💻 I enjoy coding and building projects
+- 🚀 Always learning new technologies
+- 🎯 I like keeping things simple
+- 🇵🇰 Building from Pakistan
